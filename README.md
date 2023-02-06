@@ -1,2 +1,2 @@
 # workalendar-hub
-A automatically updating repo of work days of different locations, based on workalendar
+An up to date repo of the workdays of different ISO regions, based on workalendar

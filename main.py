@@ -24,7 +24,7 @@ def proc_workingdays():
         # iterate through all dates 
         res = []
         for single_date in daterange(start_date, end_date):
-            if cal.is_working_day(single_date):
+            if not cal.is_working_day(single_date):
                 res.append(single_date)
         with open(f'./workingdays/{k}.txt', 'w') as f:
             f.write('\n'.join([x.strftime("%Y-%m-%d") for x in res]))

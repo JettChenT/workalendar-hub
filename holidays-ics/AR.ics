@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//workalendar//ical 17.0.0//EN
+BEGIN:VEVENT
+SUMMARY:New year
+DTSTART;VALUE=DATE:20200101
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-01-01New year@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival Lunes
+DTSTART;VALUE=DATE:20200224
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-02-24Carnival Lunes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival
+DTSTART;VALUE=DATE:20200225
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-02-25Carnival@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Nacional de la Memoria por la Verdad y la Justicia
+DTSTART;VALUE=DATE:20200324
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-03-24Día Nacional de la Memoria por la Verdad y la Justicia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Veterano y de los Caídos en la Guerra de Malvinas
+DTSTART;VALUE=DATE:20200331
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-03-31Día del Veterano y de los Caídos en la Guerra de Malvinas@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20200410
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-04-10Good Friday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Saturday
+DTSTART;VALUE=DATE:20200411
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-04-11Easter Saturday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Sunday
+DTSTART;VALUE=DATE:20200412
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-04-12Easter Sunday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Trabajador
+DTSTART;VALUE=DATE:20200501
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-05-01Día del Trabajador@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Revolución de Mayo
+DTSTART;VALUE=DATE:20200525
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-05-25Día de la Revolución de Mayo@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+DTSTART;VALUE=DATE:20200615
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-06-15Día Paso a la Inmortalidad del General Martín Miguel de Güemes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Manuel Belgrano
+DTSTART;VALUE=DATE:20200620
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-06-20Día Paso a la Inmortalidad del General Manuel Belgrano@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Independencia
+DTSTART;VALUE=DATE:20200709
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-07-09Día de la Independencia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del Gral. José de San Martín
+DTSTART;VALUE=DATE:20200817
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-08-17Día Paso a la Inmortalidad del Gral. José de San Martín@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Respeto a la Diversidad Cultural
+DTSTART;VALUE=DATE:20201012
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-10-12Día del Respeto a la Diversidad Cultural@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Soberanía Nacional
+DTSTART;VALUE=DATE:20201123
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-11-23Día de la Soberanía Nacional@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Inmaculada Concepción de María
+DTSTART;VALUE=DATE:20201208
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-12-08Día de la Inmaculada Concepción de María@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Day
+DTSTART;VALUE=DATE:20201225
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2020-12-25Christmas Day@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New year
+DTSTART;VALUE=DATE:20210101
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-01-01New year@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival Lunes
+DTSTART;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-02-15Carnival Lunes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival
+DTSTART;VALUE=DATE:20210216
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-02-16Carnival@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Nacional de la Memoria por la Verdad y la Justicia
+DTSTART;VALUE=DATE:20210324
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-03-24Día Nacional de la Memoria por la Verdad y la Justicia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Veterano y de los Caídos en la Guerra de Malvinas
+DTSTART;VALUE=DATE:20210402
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-04-02Día del Veterano y de los Caídos en la Guerra de Malvinas@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20210402
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-04-02Good Friday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Saturday
+DTSTART;VALUE=DATE:20210403
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-04-03Easter Saturday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Sunday
+DTSTART;VALUE=DATE:20210404
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-04-04Easter Sunday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Trabajador
+DTSTART;VALUE=DATE:20210501
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-05-01Día del Trabajador@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Revolución de Mayo
+DTSTART;VALUE=DATE:20210525
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-05-25Día de la Revolución de Mayo@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Manuel Belgrano
+DTSTART;VALUE=DATE:20210620
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-06-20Día Paso a la Inmortalidad del General Manuel Belgrano@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+DTSTART;VALUE=DATE:20210621
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-06-21Día Paso a la Inmortalidad del General Martín Miguel de Güemes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Independencia
+DTSTART;VALUE=DATE:20210709
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-07-09Día de la Independencia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del Gral. José de San Martín
+DTSTART;VALUE=DATE:20210816
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-08-16Día Paso a la Inmortalidad del Gral. José de San Martín@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Respeto a la Diversidad Cultural
+DTSTART;VALUE=DATE:20211011
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-10-11Día del Respeto a la Diversidad Cultural@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Soberanía Nacional
+DTSTART;VALUE=DATE:20211122
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-11-22Día de la Soberanía Nacional@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Inmaculada Concepción de María
+DTSTART;VALUE=DATE:20211208
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-12-08Día de la Inmaculada Concepción de María@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Day
+DTSTART;VALUE=DATE:20211225
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2021-12-25Christmas Day@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New year
+DTSTART;VALUE=DATE:20220101
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-01-01New year@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival Lunes
+DTSTART;VALUE=DATE:20220228
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-02-28Carnival Lunes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival
+DTSTART;VALUE=DATE:20220301
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-03-01Carnival@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Nacional de la Memoria por la Verdad y la Justicia
+DTSTART;VALUE=DATE:20220324
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-03-24Día Nacional de la Memoria por la Verdad y la Justicia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Veterano y de los Caídos en la Guerra de Malvinas
+DTSTART;VALUE=DATE:20220402
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-04-02Día del Veterano y de los Caídos en la Guerra de Malvinas@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20220415
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-04-15Good Friday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Saturday
+DTSTART;VALUE=DATE:20220416
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-04-16Easter Saturday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Sunday
+DTSTART;VALUE=DATE:20220417
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-04-17Easter Sunday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Trabajador
+DTSTART;VALUE=DATE:20220501
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-05-01Día del Trabajador@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Revolución de Mayo
+DTSTART;VALUE=DATE:20220525
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-05-25Día de la Revolución de Mayo@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+DTSTART;VALUE=DATE:20220617
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-06-17Día Paso a la Inmortalidad del General Martín Miguel de Güemes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Manuel Belgrano
+DTSTART;VALUE=DATE:20220620
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-06-20Día Paso a la Inmortalidad del General Manuel Belgrano@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Independencia
+DTSTART;VALUE=DATE:20220709
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-07-09Día de la Independencia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del Gral. José de San Martín
+DTSTART;VALUE=DATE:20220815
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-08-15Día Paso a la Inmortalidad del Gral. José de San Martín@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Respeto a la Diversidad Cultural
+DTSTART;VALUE=DATE:20221017
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-10-17Día del Respeto a la Diversidad Cultural@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Soberanía Nacional
+DTSTART;VALUE=DATE:20221121
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-11-21Día de la Soberanía Nacional@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Inmaculada Concepción de María
+DTSTART;VALUE=DATE:20221208
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-12-08Día de la Inmaculada Concepción de María@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Day
+DTSTART;VALUE=DATE:20221225
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2022-12-25Christmas Day@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New year
+DTSTART;VALUE=DATE:20230101
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-01-01New year@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival Lunes
+DTSTART;VALUE=DATE:20230220
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-02-20Carnival Lunes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival
+DTSTART;VALUE=DATE:20230221
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-02-21Carnival@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Nacional de la Memoria por la Verdad y la Justicia
+DTSTART;VALUE=DATE:20230324
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-03-24Día Nacional de la Memoria por la Verdad y la Justicia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Veterano y de los Caídos en la Guerra de Malvinas
+DTSTART;VALUE=DATE:20230402
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-04-02Día del Veterano y de los Caídos en la Guerra de Malvinas@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20230407
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-04-07Good Friday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Saturday
+DTSTART;VALUE=DATE:20230408
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-04-08Easter Saturday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Sunday
+DTSTART;VALUE=DATE:20230409
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-04-09Easter Sunday@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Trabajador
+DTSTART;VALUE=DATE:20230501
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-05-01Día del Trabajador@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Revolución de Mayo
+DTSTART;VALUE=DATE:20230525
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-05-25Día de la Revolución de Mayo@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+DTSTART;VALUE=DATE:20230617
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-06-17Día Paso a la Inmortalidad del General Martín Miguel de Güemes@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del General Manuel Belgrano
+DTSTART;VALUE=DATE:20230620
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-06-20Día Paso a la Inmortalidad del General Manuel Belgrano@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Independencia
+DTSTART;VALUE=DATE:20230709
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-07-09Día de la Independencia@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día Paso a la Inmortalidad del Gral. José de San Martín
+DTSTART;VALUE=DATE:20230821
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-08-21Día Paso a la Inmortalidad del Gral. José de San Martín@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día del Respeto a la Diversidad Cultural
+DTSTART;VALUE=DATE:20231016
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-10-16Día del Respeto a la Diversidad Cultural@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Soberanía Nacional
+DTSTART;VALUE=DATE:20231120
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-11-20Día de la Soberanía Nacional@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Día de la Inmaculada Concepción de María
+DTSTART;VALUE=DATE:20231208
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-12-08Día de la Inmaculada Concepción de María@peopledoc.github.io/workalendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Day
+DTSTART;VALUE=DATE:20231225
+DTSTAMP;VALUE=DATE-TIME:20230217T115756Z
+UID:2023-12-25Christmas Day@peopledoc.github.io/workalendar
+END:VEVENT
+END:VCALENDAR
